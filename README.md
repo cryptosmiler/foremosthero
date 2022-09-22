@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**luzzinteilth/luzzinteilth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Luzzinteilth/Luzzinteilth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://github.com/Super-Smile"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Engaged%20-%20Creative;Senior%20Web%20Developer;8+%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=red&vCenter=true&size=40%22"></a>
+</p>
