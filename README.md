@@ -33,3 +33,5 @@ I'm L**uzzin** T**e**il**th**, superdevninja.
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 
 ---
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
