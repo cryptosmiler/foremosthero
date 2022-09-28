@@ -39,8 +39,3 @@ I'm L**uzzin** T**e**il**th**, superdevninja.
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=luzzinteilth&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=luzzinteilth&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
-
